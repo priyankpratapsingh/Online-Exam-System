@@ -1,0 +1,4 @@
+QUES1.Which is the capital of india :
+(A).Agra	(B).Delhi	(C).Bangaloire 	(D).taj
+QUES2.2+1?
+(A).5	(B).3	(C).6 	(D).9
